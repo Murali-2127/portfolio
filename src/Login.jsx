@@ -1,15 +1,16 @@
 import React from "react";
 function login(){
     return(
-        <div>login 
+        <div className>login 
             <h1>login 
-
+             <input />
+             <input />
+             <input />
+             <input />
             </h1>
             <p>
                 this is the login page
             </p>
-        
-        </div>
         )
-}
-export default login
+        }
+       export default login
